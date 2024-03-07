@@ -1,0 +1,29 @@
+.filters_container{
+    -fx-border-color:#000;
+    -fx-border-width:2px;
+    -fx-border-radius:15px;
+    -fx-background-color:#fff;
+    -fx-radius:15px;
+}
+.filter_title{
+    -fx-font-weight:800;
+    -fx-font-size:20px;
+}
+.scroll_pane{
+    -fx-background-colo:#fff;
+}
+.filter{
+    -fx-color:15px;
+}
+/* styles.css */
+.alert {
+    -fx-background-color: #fff; /* Background color */
+}
+
+.alert .header-panel {
+    -fx-background-color: #336699; /* Header background color */
+}
+
+.alert .content {
+    -fx-font-size: 14px; /* Content font size */
+}

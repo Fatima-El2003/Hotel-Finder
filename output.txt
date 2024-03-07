@@ -1,0 +1,22 @@
+[
+  {
+    "latitude": 35.244864,
+    "name": "",
+    "longitude": -3.9306363
+  },
+  {
+    "latitude": 35.2351992,
+    "name": "شاطئ إشفارن",
+    "longitude": -3.9811772
+  },
+  {
+    "latitude": 35.2089585,
+    "name": "Al Hoceima Bay",
+    "longitude": -3.9009073
+  },
+  {
+    "latitude": 35.245033,
+    "name": "Hôtel Basilic",
+    "longitude": -3.9306214
+  }
+]
